@@ -41,6 +41,6 @@ Follow these precise steps to deploy and run the sequential analysis smoothly on
 ### 1. Clone the Target Endpoint
 
 ```bash
-git clone [https://github.com/amirsohail100/your-rnn-repo-name.git](https://github.com/amirsohail100/your-rnn-repo-name.git)
-cd your-rnn-repo-name
+git clone [https://github.com/amirsohail100/my_first_deep_learning_with_rnn_basics-Public-.git](https://github.com/amirsohail100/my_first_deep_learning_with_rnn_basics-Public-.git)
+cd my_first_deep_learning_with_rnn_basics-Public-
 ```
